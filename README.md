@@ -9,4 +9,4 @@ or
 elm-package install
 elm-make Main.elm
 ```
-then view index.html on root 
+then view index.html on project root 
